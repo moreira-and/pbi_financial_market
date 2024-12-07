@@ -1,0 +1,17 @@
+{
+    "PETR4.SAO": {
+        "Note": "Thank you for using Alpha Vantage! Our standard API rate limit is 25 requests per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+    },
+    "ITUB4.SAO": {
+        "Note": "Thank you for using Alpha Vantage! Our standard API rate limit is 25 requests per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+    },
+    "VALE3.SAO": {
+        "Note": "Thank you for using Alpha Vantage! Our standard API rate limit is 25 requests per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+    },
+    "WEGE3.SAO": {
+        "Note": "Thank you for using Alpha Vantage! Our standard API rate limit is 25 requests per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+    },
+    "ABEV3.SAO": {
+        "Note": "Thank you for using Alpha Vantage! Our standard API rate limit is 25 requests per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+    }
+}

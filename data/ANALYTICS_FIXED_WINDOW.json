@@ -1,0 +1,4 @@
+{
+    "error": "Unexpected error while processing session query : (<class 'KeyError'>, KeyError('No data can be retrieved for ticker ABEV3.SAO for the date range 2024-01-01 to 2024-10-31'), <traceback object at 0xffffa552ff80>)",
+    "trace": "Traceback (most recent call last):\n  File \"/var/task/time_series_analytics.py\", line 228, in lambda_handler\n    working_cache.import_marketdata_series(symbol_list, data_range, aws_region=os.environ['AWS_REGION'])\n  File \"/opt/python/series_cache.py\", line 606, in import_marketdata_series\n    response_record, meta_data = equity_daily.query_daily_data(query_ticker,\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/python/equity_daily_data.py\", line 1536, in query_daily_data\n    raise KeyError('No data can be retrieved for ticker ' + ticker + ' for the date range ' +\nKeyError: 'No data can be retrieved for ticker ABEV3.SAO for the date range 2024-01-01 to 2024-10-31'\n"
+}
