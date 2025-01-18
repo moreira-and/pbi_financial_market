@@ -1,0 +1,102 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 6.3204045942084282
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 652.58177435202026,
+            "y": 0
+          },
+          "nodeIndex": "dim_calendarios",
+          "nodeLineageTag": "9e49ddee-eb1d-470e-b37b-37353d61b792",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 300.96290589469385,
+            "y": 408.64417450395359
+          },
+          "nodeIndex": "fato_ativos",
+          "nodeLineageTag": "f81961b8-01f8-40d9-9293-742c3a71b7c0",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 622.88533345994449,
+            "y": 408.30184808725511
+          },
+          "nodeIndex": "fato_indicadores",
+          "nodeLineageTag": "f4650e44-eec2-487a-a4ac-7f7aabf23d54",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 941.64755872809076,
+            "y": 425.9814434930467
+          },
+          "nodeIndex": "fato_tesouro",
+          "nodeLineageTag": "67f0c7ce-1a07-4863-beb9-33c291917760",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 456.23948575252268,
+            "y": 762.370978870262
+          },
+          "nodeIndex": "dim_ativos",
+          "nodeLineageTag": "e3afa914-759e-4408-9287-016aecb3d313",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 959.12985773147193,
+            "y": 754.760177526052
+          },
+          "nodeIndex": "dim_indicadores",
+          "nodeLineageTag": "c110528a-cf62-4ab0-b6cd-af3217fda5a0",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 176
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 63.287087723234,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

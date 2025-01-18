@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "relatorio_financeiro"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "68f99eef-a210-42fb-af23-3772921a7c1e"
+  }
+}
